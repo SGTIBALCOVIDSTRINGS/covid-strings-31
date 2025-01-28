@@ -6,7 +6,7 @@ this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyid(header)
 src.appendchild(this.img)
-<div id=header></div>
+div id=header/div
 audio=new audio (audio_file mp3)
 audio.play
 random button
