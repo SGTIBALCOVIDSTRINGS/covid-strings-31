@@ -1,6 +1,6 @@
 doc.type html
 script
-filename=covidstrings31gamecode.js
+filename=covidstrings31.js
 java.awt graphics 
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
@@ -42,7 +42,7 @@ this.ad(buttonpanel,borderlayout.south)
 public static main(string [] args)
 jframe f=new covid strings31()
 f.set title(covid strings31)
-f.set default closeoperation(Exit_On_Close);
+f.set default closeoperation(exit_on_close);
 f.setsize
 f.set visible(true);
 <label id=lblscore>zero</label>
