@@ -133,15 +133,15 @@ height=100%
 <fe component transfer>
 <fe func covid strings  type=linear slope>=1
 transformationlist=[reflection,rotation,translation]
-if reflection==x axis:
-shift x axis
+if reflection(4.2,23)==x axis:
+sign.change y coordinate
 else:
 remain
 if rotation==270 degrees counterclockwise:
 shift 270 degrees counterclockwise
 else:
 remain
-if rotation==180 degrees:
+if rotation(-4.2,-23)==180 degrees:
 shift 180 degrees
 else:
 remain
