@@ -145,15 +145,15 @@ if rotation(-4.2,-23)==180 degrees:
 shift 180 degrees
 else:
 remain
-if translation==(0,-5):
+if translation(4.2,23)==(0,-5):
 shift 5 units down
 else:
 remain
-if translation==(-4.2,6)
+if translation(4.2,18)==(-4.2,6)
 shift 4.2 units left and 6 units up
 else:
 remain
-if translation ==(25,-16)
+if translation(0,24) ==(25,-16)
 shift 25 units right and 16 units down 
 substring(start,end)
 userin.multiple choice
