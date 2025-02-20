@@ -137,7 +137,7 @@ if reflection(4.2,23)==x axis:
 sign.change y coordinate
 else:
 remain
-if rotation==270 degrees counterclockwise:
+if rotation(4.2,-23)==270 degrees counterclockwise:
 shift 270 degrees counterclockwise
 else:
 remain
